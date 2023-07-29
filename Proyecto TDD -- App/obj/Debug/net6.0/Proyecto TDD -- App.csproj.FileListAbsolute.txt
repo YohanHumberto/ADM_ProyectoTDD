@@ -1,0 +1,30 @@
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.exe
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.deps.json
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.runtimeconfig.json
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.pdb
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.csproj.AssemblyReference.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.AssemblyInfoInputs.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.AssemblyInfo.cs
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.csproj.CoreCompileInputs.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\refint\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.pdb
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.genruntimeconfig.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD -- App\obj\Debug\net6.0\ref\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.exe
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.deps.json
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.runtimeconfig.json
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\bin\Debug\net6.0\Proyecto TDD -- App.pdb
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.csproj.AssemblyReference.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.AssemblyInfoInputs.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.AssemblyInfo.cs
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.csproj.CoreCompileInputs.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\refint\Proyecto TDD -- App.dll
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.pdb
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\Proyecto TDD -- App.genruntimeconfig.cache
+C:\Users\yhumb\OneDrive\Escritorio\TAREA itla\Cuatrimestre VIIII\ADM\Proyecto TDD\Proyecto TDD -- App\obj\Debug\net6.0\ref\Proyecto TDD -- App.dll
